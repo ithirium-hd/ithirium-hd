@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="200"/>
 </div>
 <div id="badges"><a href="https://www.linkedin.com/in/dhritideep-saha-1b500625b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtVohfqfRTuqleCTwbZaIeQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Li
