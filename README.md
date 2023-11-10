@@ -34,14 +34,31 @@ At present I'm an undergrad , learning a couple of new things about coding regul
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>
+
 </div>
 ---
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ithirium-hd&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ithirium-hd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---
+<!-- 
+ [![profile](https://github-stats-alpha.vercel.app/api?username=ithirium-hd&cc=000&tc=fff&ic=fff&bc=000 "profile")](https://github-stats-alpha.vercel.app/api?username=ithirium-hd&cc=000&tc=fff&ic=fff&bc=000 "profile") -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ithirium-hd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ithirium-hd&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ithirium-hd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=14&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</div>
+
+<!-- ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ithirium-hd&combine_all_yearly_contributions=true&theme=dark) -->
+
+
+
+<!-- 
+![](https://github-stats-alpha.vercel.app/api?username=ithirium-hd&cc=000&tc=fff&ic=fff&bc=000 "profile")
+<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=ithirium-hd&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ithirium-hd&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 ithirium-hd/ithirium-hd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
